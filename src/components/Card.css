@@ -1,0 +1,13 @@
+a {
+  transition: 0.3s all ease-in;
+}
+
+#increase:hover {
+  background-color: #006400;
+  color: white !important;
+}
+
+#decrease:hover {
+  background-color: #8b0000;
+  color: white !important;
+}
